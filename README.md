@@ -1,4 +1,4 @@
-Dojo Tribuna do Norte
+Coding Dojo - Tribuna do Norte
 ====
 
 Encontros
