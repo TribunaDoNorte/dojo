@@ -32,7 +32,7 @@ O Coding Dojo tem algumas regras básicas:
 
 Contato
 ----
-[Bruno Henrique - Garu](http://github.com/brunohenrique) - 8753-3573
+[Bruno Henrique(Garu)](http://github.com/brunohenrique) - 8753-3573
 
 Onde?
 ----
