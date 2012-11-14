@@ -5,7 +5,8 @@ Encontros
 ----
 
 * 17 de Novembro de 2012 (primeiro encontro)
-  - Tema: Ruby e Rspec
+  - **Hora**: 10h
+  - **Tema**: Ruby e Rspec
 
 Regras
 ----
