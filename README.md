@@ -4,7 +4,7 @@ Coding Dojo - Tribuna do Norte
 Encontros
 ----
 
-* 17 de Novembro de 2012 (primeiro encontro)
+* Sábado - 17 de Novembro de 2012 (primeiro encontro)
   - **Horário**: 10h..12h
   - **Tema**: Ruby e Rspec
 
