@@ -28,6 +28,11 @@ O Coding Dojo tem algumas regras básicas:
 
 (fonte: http://pet.inf.ufsc.br/dojo/o-que-eh-dojo/)
 
+
+Contato
+----
+[Bruno Henrique](http://github.com/brunohenrique) - 8753-3573
+
 Onde?
 ----
 
