@@ -25,6 +25,8 @@ Ruby + Rspec
 Participantes
 ---
 
+Adicione seu nome aqui, e faça um pull-request
+
 * [Halan Pinheiro](http://github.com/halan)
 * [Bruno Henrique (Garu)](http://github.com/brunohenrique)
 * [Glaydson Costa](http://github.com/costalince)
