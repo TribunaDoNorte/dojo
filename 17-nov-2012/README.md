@@ -19,8 +19,8 @@ Ruby + Rspec
 Participantes
 ---
 
-* Halan Pinheiro
-* Bruno Henrique (Garu)
-* Glaydson Costa
-* César Medeiros
+* [Halan Pinheiro](http://github.com/halan)
+* [Bruno Henrique (Garu)](http://github.com/brunohenrique)
+* [Glaydson Costa](http://github.com/costalince)
+* [César Medeiros](http://github.com/cesarmedeiros)
 
