@@ -4,8 +4,8 @@ Coding Dojo - Tribuna do Norte
 O que é?
 ---
 
-Coding Dojo é um encontro de programadores (e aspirantes), onde se tenta de forma colaborativa resolver um 'desafio'
-com a intenção de praticar técnicas de Desenvolvimento Ágil.
+[Coding Dojo](http://codingdojo.org/) é um encontro de programadores (e aspirantes), onde se tenta de forma colaborativa resolver um 'desafio'
+com a intenção de praticar técnicas de [Desenvolvimento Ágil.](http://pt.wikipedia.org/wiki/Desenvolvimento_%C3%A1gil_de_software)
 
 Foi inventado em Paris, em dezembro de 2004, pelo grupo [ParisDojo](http://codingdojo.org/cgi-bin/wiki.pl?ParisDojo)
 e desde então vem sendo reproduzido no mundo inteiro.
