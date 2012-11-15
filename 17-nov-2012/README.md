@@ -31,4 +31,4 @@ Adicione seu nome aqui, e faça um pull-request
 * [Bruno Henrique (Garu)](http://github.com/brunohenrique)
 * [Glaydson Costa](http://github.com/costalince)
 * [César Medeiros](http://github.com/cesarmedeiros)
-
+* [Brenno Costa](http://github.com/brennovich)
