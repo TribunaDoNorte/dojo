@@ -14,7 +14,7 @@ Encontros / Agenda
 ----
 
 * [Sábado - 17 de Novembro de 2012 (primeiro encontro)](http://github.com/TribunaDoNorte/dojo/tree/master/17-nov-2012)
-  - **Horário**: 10h..12h
+  - **Horário**: :clock10: 10h..12h
   - **Tema**: Ruby e Rspec
  
 Características
