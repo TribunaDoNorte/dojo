@@ -1,19 +1,32 @@
 Coding Dojo - Tribuna do Norte
-====
+===
 
-Encontros
+O que é?
+---
+
+Coding Dojo é um encontro de programadores (e aspirantes), onde se tenta de forma colaborativa resolver um 'desafio'
+com a intenção de praticar técnicas de Desenvolvimento Ágil.
+
+Foi inventado em Paris, em dezembro de 2004, pelo grupo [ParisDojo](http://codingdojo.org/cgi-bin/wiki.pl?ParisDojo)
+e desde então vem sendo reproduzido no mundo inteiro.
+
+Encontros / Agenda
 ----
 
 * [Sábado - 17 de Novembro de 2012 (primeiro encontro)](http://github.com/TribunaDoNorte/dojo/tree/master/17-nov-2012)
   - **Horário**: 10h..12h
   - **Tema**: Ruby e Rspec
+ 
+Características
+---
+ * Não-competitivo, colaborativo, ambiente divertido
+ * **Todos** os níveis de habilidade são **BEM VINDOS**
+ * Segurança para tentar novas ideias
+ 
+(fonte: http://codingdojo.org/cgi-bin/wiki.pl?WhatIsCodingDojo )
 
 Regras
 ----
-
->   * **NÃO PRECISA SABER OU DOMINAR A TECNOLOGIA ESCOLHIDA!**
->   * **NÃO HÁ NEM UM TIPO DE COMPETIÇÃO**
->   * **NÃO É OBJETIVO FINAL, RESOLVER O PROBLEMA; E SIM PRATICAR AGILE E AS TECNOLOGIAS RELACIONADAS**
 
 Segundo o http://codingdojo.org/: “Um Coding Dojo é um encontro onde um grupo de programadores se reúne para trabalhar em conjunto em um desafio de programação. Eles estão lá para se divertir, e, através de uma metodologia pragmática, melhorar suas habilidades de programação e de trabalho em grupo.”
 
