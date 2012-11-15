@@ -16,6 +16,12 @@ Tema
 
 Ruby + Rspec
 
+#### Referências
+
+* http://ruby-doc.org/core-1.9.3/
+* https://www.relishapp.com/rspec
+* http://rspec.rubyforge.org/rspec/1.2.6/
+
 Participantes
 ---
 
