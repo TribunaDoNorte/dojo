@@ -11,6 +11,10 @@ Encontros
 Regras
 ----
 
+>   * **NÃO PRECISA SABER OU DOMINAR A TECNOLOGIA ESCOLHIDA!**
+>   * **NÃO HÁ NEM UM TIPO DE COMPETIÇÃO**
+>   * **NÃO É OBJETIVO FINAL RESOLVER O PROBLEMA; E SIM PRATICAR AGILE E AS TECNOLOGIAS RELACIONADAS**
+
 Segundo o http://codingdojo.org/: “Um Coding Dojo é um encontro onde um grupo de programadores se reúne para trabalhar em conjunto em um desafio de programação. Eles estão lá para se divertir, e, através de uma metodologia pragmática, melhorar suas habilidades de programação e de trabalho em grupo.”
 
 O Coding Dojo tem algumas regras básicas:
