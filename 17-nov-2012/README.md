@@ -32,3 +32,4 @@ Adicione seu nome aqui, e faça um pull-request
 * [Gleydson Costa](http://github.com/costalince)
 * [César Medeiros](http://github.com/cesarmedeiros)
 * [Brenno Costa](http://github.com/brennovich)
+* [Nino Bessa](http://github.com/ninobessa)
