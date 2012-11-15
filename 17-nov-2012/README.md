@@ -9,7 +9,7 @@ Início..Fim
 Problema
 ---
 
-Será sorteado no dia (http://dojopuzzles.com)
+Será sorteado no dia, provavelmente daqui :point_right:  http://dojopuzzles.com
 
 Tema
 ---
