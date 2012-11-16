@@ -35,3 +35,4 @@ Adicione seu nome aqui, e faça um pull-request
 * [Nino Bessa](http://github.com/ninobessa)
 * [Claudia Farias](http://github.com/krawdyah)
 * [Rafael Pierre](https://github.com/RPierre)
+* [Masterbroder](https://github.com/masterbroder)
