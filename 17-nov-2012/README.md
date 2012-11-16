@@ -34,3 +34,4 @@ Adicione seu nome aqui, e faça um pull-request
 * [Brenno Costa](http://github.com/brennovich)
 * [Nino Bessa](http://github.com/ninobessa)
 * [Claudia Farias](http://github.com/krawdyah)
+* [Rafael Pierre](https://github.com/RPierre)
