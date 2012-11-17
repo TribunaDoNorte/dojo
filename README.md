@@ -1,6 +1,9 @@
 Coding Dojo - Tribuna do Norte
 ===
 
+[Participar do próximo :point_right: [17 de Novembro]](https://github.com/TribunaDoNorte/dojo/edit/master/17-nov-2012/README.md)
+
+
 O que é?
 ---
 
