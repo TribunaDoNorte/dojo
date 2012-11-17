@@ -9,7 +9,10 @@ Início..Fim
 Problema
 ---
 
-Será sorteado no dia, provavelmente daqui :point_right:  http://dojopuzzles.com
+Será sorteado no dia, provavelmente daqui
+
+* :point_right:  http://dojopuzzles.com
+* :point_right: http://www.rubyquiz.com/
 
 Tema
 ---
