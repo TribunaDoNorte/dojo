@@ -4,18 +4,16 @@
 Participantes
 ---
 
-[Adicionar meu nome](https://github.com/TribunaDoNorte/dojo/edit/master/17-nov-2012/README.md), e faça um pull-request
-
-* [Halan Pinheiro](http://github.com/halan)
-* [Bruno Henrique (Garu)](http://github.com/brunohenrique)
-* [Gleydson Costa](http://github.com/costalince)
-* [César Medeiros](http://github.com/cesarmedeiros)
-* [Brenno Costa](http://github.com/brennovich)
-* [Nino Bessa](http://github.com/ninobessa)
+* :point_up: [Halan Pinheiro](http://github.com/halan)
+* :point_up: [Bruno Henrique (Garu)](http://github.com/brunohenrique)
+* :point_up: [Gleydson Costa](http://github.com/costalince)
+* :point_up: [César Medeiros](http://github.com/cesarmedeiros)
+* :point_up: [Brenno Costa](http://github.com/brennovich)
+* :point_up: [Nino Bessa](http://github.com/ninobessa)
 * [Claudia Farias](http://github.com/krawdyah)
 * [Rafael Pierre](https://github.com/RPierre)
 * [Masterbroder](https://github.com/masterbroder)
-* [Michel Azevedo](https://github.com/michelsazevedo)
+* :point_up: [Michel Azevedo](https://github.com/michelsazevedo)
 
 Início..Fim
 ---
