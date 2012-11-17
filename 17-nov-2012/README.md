@@ -15,6 +15,7 @@ Participantes
 * [Claudia Farias](http://github.com/krawdyah)
 * [Rafael Pierre](https://github.com/RPierre)
 * [Masterbroder](https://github.com/masterbroder)
+* [Michel Azevedo](https://github.com/michelsazevedo)
 
 Início..Fim
 ---
