@@ -1,6 +1,21 @@
 17 de Novembro de 2012
 ===
 
+Participantes
+---
+
+[Adicione seu nome aqui](https://github.com/TribunaDoNorte/dojo/edit/master/17-nov-2012/README.md), e faça um pull-request
+
+* [Halan Pinheiro](http://github.com/halan)
+* [Bruno Henrique (Garu)](http://github.com/brunohenrique)
+* [Gleydson Costa](http://github.com/costalince)
+* [César Medeiros](http://github.com/cesarmedeiros)
+* [Brenno Costa](http://github.com/brennovich)
+* [Nino Bessa](http://github.com/ninobessa)
+* [Claudia Farias](http://github.com/krawdyah)
+* [Rafael Pierre](https://github.com/RPierre)
+* [Masterbroder](https://github.com/masterbroder)
+
 Início..Fim
 ---
 
@@ -44,17 +59,4 @@ Ruby + Rspec
 * Windows - http://rubyinstaller.org/
 * Linux e Mac - `$ curl -L https://get.rvm.io | bash -s stable --ruby`
 
-Participantes
----
 
-[Adicione seu nome aqui](https://github.com/TribunaDoNorte/dojo/edit/master/17-nov-2012/README.md), e faça um pull-request
-
-* [Halan Pinheiro](http://github.com/halan)
-* [Bruno Henrique (Garu)](http://github.com/brunohenrique)
-* [Gleydson Costa](http://github.com/costalince)
-* [César Medeiros](http://github.com/cesarmedeiros)
-* [Brenno Costa](http://github.com/brennovich)
-* [Nino Bessa](http://github.com/ninobessa)
-* [Claudia Farias](http://github.com/krawdyah)
-* [Rafael Pierre](https://github.com/RPierre)
-* [Masterbroder](https://github.com/masterbroder)
