@@ -1,6 +1,8 @@
 17 de Novembro de 2012
 ===
 
+![Primeiro encontro](https://raw.github.com/TribunaDoNorte/dojo/master/17-nov-2012/first-dojo.jpg)
+
 Participantes
 ---
 
