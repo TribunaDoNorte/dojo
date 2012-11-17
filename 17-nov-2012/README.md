@@ -12,7 +12,7 @@ Início..Fim
 * **10 minutos** - Combinar próximo Dojo
 * **5  minutos** - Escolher / Definir o problema
 * **7 x 7 minutos** - Código (7 turnos de 7 minutos)
-* **5  minutos** - Intervalo / Pequena pausa
+* **2  minutos** - Intervalo / Pequena pausa
 * **7 x 7 minutos** - Código (7 turnos de 7 minutos)
 
 (14 turnos ao todo)
