@@ -14,6 +14,10 @@ e desde então vem sendo reproduzido no mundo inteiro.
 Encontros / Agenda
 ----
 
+* Sábado - 15 de Dezembro de 2012
+  - **Horário**: :clock10: 10h..12h
+  - **Tema**: [a definir]
+
 * <del>[Sábado - 17 de Novembro de 2012](http://github.com/TribunaDoNorte/dojo/tree/master/17-nov-2012)</del> <ins>(Realizado)</ins>
   - **Horário**: :clock10: 10h..12h
   - **Tema**: Ruby e Rspec
