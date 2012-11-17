@@ -4,7 +4,7 @@
 Participantes
 ---
 
-[Adicione seu nome aqui](https://github.com/TribunaDoNorte/dojo/edit/master/17-nov-2012/README.md), e faça um pull-request
+[Michel Azevedo](https://github.com/TribunaDoNorte/dojo/edit/master/17-nov-2012/README.md), e faça um pull-request
 
 * [Halan Pinheiro](http://github.com/halan)
 * [Bruno Henrique (Garu)](http://github.com/brunohenrique)
@@ -15,6 +15,7 @@ Participantes
 * [Claudia Farias](http://github.com/krawdyah)
 * [Rafael Pierre](https://github.com/RPierre)
 * [Masterbroder](https://github.com/masterbroder)
+* [Michel Azevedo](https://github.com/michelsazevedo)
 
 Início..Fim
 ---
