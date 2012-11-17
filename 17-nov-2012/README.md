@@ -47,7 +47,7 @@ Ruby + Rspec
 Participantes
 ---
 
-Adicione seu nome aqui, e faça um pull-request
+[Adicione seu nome aqui](https://github.com/TribunaDoNorte/dojo/edit/master/17-nov-2012/README.md), e faça um pull-request
 
 * [Halan Pinheiro](http://github.com/halan)
 * [Bruno Henrique (Garu)](http://github.com/brunohenrique)
