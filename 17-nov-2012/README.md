@@ -35,10 +35,11 @@ Início..Fim
 Problema
 ---
 
-Será sorteado no dia, provavelmente daqui
+<del>Será sorteado no dia, provavelmente daqui</del>
 
-* :point_right:  http://dojopuzzles.com
-* :point_right: http://www.rubyquiz.com/
+* <del>:point_right:  http://dojopuzzles.com</del>
+* <del>:point_right: http://www.rubyquiz.com/</del>
+* [FizzBuzz](http://dojopuzzles.com/problemas/exibe/fizzbuzz/)
 
 Tema
 ---
