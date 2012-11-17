@@ -36,6 +36,13 @@ Ruby + Rspec
 * http://ruby-doc.org/core-1.9.3/
 * https://www.relishapp.com/rspec
 * http://rspec.rubyforge.org/rspec/1.2.6/
+ 
+#### Instalação do Ruby
+
+**Não precisa instalar o ruby nem levar o computador, mas caso queira instalar, seguem as instruções:**
+
+* Windows - http://rubyinstaller.org/
+* Linux e Mac - `$ curl -L https://get.rvm.io | bash -s stable --ruby`
 
 Participantes
 ---
