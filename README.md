@@ -1,6 +1,8 @@
 Coding Dojo - Tribuna do Norte
 ===
 
+![Primeiro encontro](https://raw.github.com/TribunaDoNorte/dojo/master/17-nov-2012/first-dojo.jpg)
+
 
 O que é?
 ---
