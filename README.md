@@ -1,7 +1,7 @@
 Coding Dojo - Tribuna do Norte
 ===
 
-[Participar do próximo :point_right: [17 de Novembro]](https://github.com/TribunaDoNorte/dojo/edit/master/17-nov-2012/README.md)
+![Primeiro encontro](https://raw.github.com/TribunaDoNorte/dojo/master/17-nov-2012/first-dojo.jpg)
 
 
 O que é?
@@ -16,10 +16,12 @@ e desde então vem sendo reproduzido no mundo inteiro.
 Encontros / Agenda
 ----
 
-* [Sábado - 17 de Novembro de 2012 (primeiro encontro)](http://github.com/TribunaDoNorte/dojo/tree/master/17-nov-2012)
-  - [[Adicione seu nome :point_up:]](https://github.com/TribunaDoNorte/dojo/edit/master/17-nov-2012/README.md)
+* Sábado - 15 de Dezembro de 2012
   - **Horário**: :clock10: 10h..12h
-  - **Tema**: Ruby e Rspec
+  - **Tema**: [a definir]
+* <del>[Sábado - 17 de Novembro de 2012](http://github.com/TribunaDoNorte/dojo/tree/master/17-nov-2012)</del> <ins>(Realizado)</ins>
+  - <del>**Horário**: :clock10: 10h..12h</del>
+  - <del>**Tema**: Ruby e Rspec</del>
  
 Características
 ---
